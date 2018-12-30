@@ -1,4 +1,8 @@
 Git is a distributed version control system.
 Git is good free software.
 Git has a mutable index called stage.
-Git is a good gamew of cellas.
+<<<<<<< HEAD
+Git is a good game.
+=======
+Git is a good game.
+>>>>>>> dev
